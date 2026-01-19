@@ -4,6 +4,7 @@
   <img width="500" height="500" alt="Gerador de Senhas" src="https://github.com/user-attachments/assets/8808dc37-315d-43d4-a2f6-5ba634d7870b" />
 </p>
 
+ACESSE PELO LINK 👉 https://lusantiag0.github.io/gerador-senhas-/
 Projeto desenvolvido com o objetivo de praticar lógica de programação e geração de senhas seguras de forma personalizada.
 
 A aplicação permite ao usuário definir:
